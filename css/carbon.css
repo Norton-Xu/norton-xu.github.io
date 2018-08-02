@@ -294,22 +294,25 @@ pre .javascript .function {
   padding-top: 3rem;
 }
 #footer-links {
+  width: 7rem;
   padding-left: 0.5rem;
   margin-top: 0;
   clear: right;
   overflow: auto;
   list-style-type: none;
   float: right;
+  font-size: medium;
 }
 #footer-links ul {
   list-style-type: none;
 }
 #footer-links li {
   float: left;
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 #footer-links a {
   display: inline-block;
+  writing-mode: vertical-lr;
 }
 #footer-links .zh {
   word-break-cjk: break-word;
