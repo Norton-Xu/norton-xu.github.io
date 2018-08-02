@@ -166,7 +166,7 @@ pre .javascript .function {
 }
 #banner {
   overflow: auto;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Open Sans', 'Droid Sans', 'Source Sans Pro', 'Helvetica Neue', 'Segoe UI', Verdana, Tahoma, Arial, 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
 }
 #banner #site-title,
 #banner #site-subtitle {
